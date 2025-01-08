@@ -78,7 +78,7 @@ To further enhance the project, future steps could include:
 ### **Usage**
 To run the analysis and replicate the results:
 1. Clone the repository:  
-   `git clone https://github.com/Kennny7/Crime-Severity-Analysis-Classification-.git`   
+   `git clone https://github.com/Kennny7/Crime-Severity-Analysis.git`   
 2. Install dependencies from `requirements.txt`.
 3. Execute the notebook or scripts for EDA, modeling, and evaluation.
 
